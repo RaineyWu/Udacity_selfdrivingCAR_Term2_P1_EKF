@@ -20,7 +20,7 @@ The goals of this project are the following:
 
 Algorithm performance on dataset 1 & 2 are as follows:
 
-| Dataset  | Accuracy                         |
+| Dataset  | RMSE[px, py, vx, vy]             |
 | -------- | -------------------------------- |
 | Dataset1 | [0.0973, 0.0855, 0.4513, 0.4399] |
 | Dataset2 | [0.0726, 0.0965, 0.4216, 0.4932] |
